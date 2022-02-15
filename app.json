@@ -80,12 +80,3 @@
             "description": "if you have group, fill the group username here without @",
             "required": false,
             "value": "Botz_Factory"
-        }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
-}
