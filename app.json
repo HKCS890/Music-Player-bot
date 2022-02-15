@@ -1,20 +1,11 @@
 {
     "name": "Music Player Bot",
     "logo": "https://telegra.ph/file/caecf576d2eaf33837600.jpg",
-    "description": "Play your favorite music from favorite languages.",
-    "keywords": [
-        "music", 
-        "voice chat", 
-        "telegram"
-    ],
     "repository": "https://github.com/HKCS890/Music-Player-bot",
     "stack": "container",
     "env": {
-        "SESSION_NAME": {
-            "description": "fill with the pyrogram session string",
-            "required": true
-        },
-        "BOT_TOKEN": {
+        
+            "BOT_TOKEN": {
             "description": "fill with your bot token from @BotFather",
             "required": true
         },
